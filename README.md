@@ -1,12 +1,12 @@
 # Tailwind Tricks to pace up development
 
 ### Contents:
-1. [Peer and group](1.Peer-and-group)
-1. [Media queries](2.Media-queries)
-1. [Use tailwind custom classes in CSS directly](3.Use-tailwind-custom-classes-in-CSS-directly)
-1. [Custom shadows](4.Custom-shadows)
-1. [Importing Tailwind CSS colors inside tailwind.config.js file](5.Importing-Tailwind-CSS-colors-inside-tailwind.config.js-file)
-1. [Packages](6.Packages)
+1. [Peer and group](#1-Peer-and-group)
+1. [Media queries](#2-Media-queries)
+1. [Use tailwind custom classes in CSS directly](#3-Use-tailwind-custom-classes-in-CSS-directly)
+1. [Custom shadows](#4-Custom-shadows)
+1. [Importing Tailwind CSS colors inside tailwind.config.js file](#5-Importing-Tailwind-CSS-colors-inside-tailwind.config.js-file)
+1. [Packages](#6-Packages)
 
 ## 1. Peer and group
 
