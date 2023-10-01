@@ -11,22 +11,30 @@
 ## 1. Peer and group
 
 Group for parent children interaction and peer for sibling interaction.
+
 We can also choose a name for the group and peer as shown below:
+
 **parent style**: group/name
+
 **parent style**: group-hover/name:bg-red-500
+
 This is a *group* example, the same goes for *peer* as well
 
 ## 2. Media queries
 
 For example:
 **sm:bg-red-500** -> applies a background color of bg-red-500 above sm breakpoint
+
 **sm:max-md:bg-red-500** -> applies a background color of bg-red-500 between the breakpoints sm and md. (Notice that the range syntax is quite different than what we usually write)
+
 **min-[400px]:bg-red-500** -> The screen size should be a minimum of 400px wide so that it can use the bg-red-500 background color
 
 ## 3. Use tailwind custom classes in CSS directly
 
 You can achieve this by using the good old **@apply** directive
+
 There is another way of achieving this, follow the syntax below
+
 ```css
 .my-custom-class {
     color: theme("colors.purple.400");
